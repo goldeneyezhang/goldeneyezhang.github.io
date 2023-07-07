@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "资本论--马克思"
 date:   2023-07-06 15:42:20 +0800
-categories: jekyll update
+categories: book
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+这个阶级的历史使命是推翻资本主义生产方式和最后消灭阶级，这个阶级就是`无产阶级`  
+观念的东西不外是移入人的头脑并在人的`头脑中改造过的物质的东西`  
+使用价值或财物具有价值，只是因为有`抽象人类劳动`对象化或物化在里面  
+`使用价值`成为它的对立面即价值的表现形式  
+`具体劳动`成为它的对立面即抽象人类劳动的表现形式。 
+`私人劳动`成为它的对立面的形式，成为直接社会形式的劳动  
+一方面，工人是`自由人`，能够把自己的劳动力当做自己的商品来支配，另一方面，他没有别的商品可以出卖，自由得`一无所有`，没有任何实现自己的劳动力所必需的东西  
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
