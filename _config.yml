@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: 学而时习之，不亦乐乎
+email: goldeneyezhang@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  世上决没有无缘无的爱，也没有无缘无故的恨。至于所谓“人类之爱”，自从人类分化成为阶级以后，就没有过这种统一的爱。过去的一切统治阶级喜欢提倡这个东西，许多所谓圣人贤人也喜欢提倡这个东西，但是无论谁都没有真正实行过，因为它在阶级社会里是不可能实行的。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: goldeneyezhang
+github_username:  goldeneyezhang
 
 # Build settings
 theme: minima
