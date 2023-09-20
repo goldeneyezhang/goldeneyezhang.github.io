@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "哈利波特与火焰杯"
+title:  "哈利波特与波洛"
 date:   2023-09-20 10:42:20 +0800
 categories: book
 ---
